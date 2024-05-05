@@ -39,8 +39,7 @@ Interested in contributing to the BrainCraft project? We encourage collaboration
 ## Contact
 
 For more information and support:
-- **Project Lead**: Ahana Bandyopadhyay - ahana@example.com
-- **Technical Lead**: Sourodip Ghosh - sourodip@example.com
+- **Product Members**: Ahana Bandyopadhyay - bandyopadhyay.ah@northeastern.edu, Sourodip Ghosh - ghosh.sour@northeastern.edu
 
 ## License
 
